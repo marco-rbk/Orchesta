@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Catalog.API/Catalog.API.csproj" />
+  <Project Path="EnterprisePlatform.AppHost/EnterprisePlatform.AppHost.csproj" />
+  <Project Path="EnterprisePlatform.ServiceDefaults/EnterprisePlatform.ServiceDefaults.csproj" />
+</Solution>

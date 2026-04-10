@@ -1,0 +1,12 @@
+C:\Users\marco\source\antigravity\Orchesta\EnterprisePlatform\EnterprisePlatform.ServiceDefaults\bin\Debug\net10.0\EnterprisePlatform.ServiceDefaults.deps.json
+C:\Users\marco\source\antigravity\Orchesta\EnterprisePlatform\EnterprisePlatform.ServiceDefaults\bin\Debug\net10.0\EnterprisePlatform.ServiceDefaults.dll
+C:\Users\marco\source\antigravity\Orchesta\EnterprisePlatform\EnterprisePlatform.ServiceDefaults\bin\Debug\net10.0\EnterprisePlatform.ServiceDefaults.pdb
+C:\Users\marco\source\antigravity\Orchesta\EnterprisePlatform\EnterprisePlatform.ServiceDefaults\obj\Debug\net10.0\EnterprisePlatform.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\marco\source\antigravity\Orchesta\EnterprisePlatform\EnterprisePlatform.ServiceDefaults\obj\Debug\net10.0\EnterprisePlatform.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\antigravity\Orchesta\EnterprisePlatform\EnterprisePlatform.ServiceDefaults\obj\Debug\net10.0\EnterprisePlatform.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\marco\source\antigravity\Orchesta\EnterprisePlatform\EnterprisePlatform.ServiceDefaults\obj\Debug\net10.0\EnterprisePlatform.ServiceDefaults.AssemblyInfo.cs
+C:\Users\marco\source\antigravity\Orchesta\EnterprisePlatform\EnterprisePlatform.ServiceDefaults\obj\Debug\net10.0\EnterprisePlatform.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\antigravity\Orchesta\EnterprisePlatform\EnterprisePlatform.ServiceDefaults\obj\Debug\net10.0\EnterprisePlatform.ServiceDefaults.dll
+C:\Users\marco\source\antigravity\Orchesta\EnterprisePlatform\EnterprisePlatform.ServiceDefaults\obj\Debug\net10.0\refint\EnterprisePlatform.ServiceDefaults.dll
+C:\Users\marco\source\antigravity\Orchesta\EnterprisePlatform\EnterprisePlatform.ServiceDefaults\obj\Debug\net10.0\EnterprisePlatform.ServiceDefaults.pdb
+C:\Users\marco\source\antigravity\Orchesta\EnterprisePlatform\EnterprisePlatform.ServiceDefaults\obj\Debug\net10.0\ref\EnterprisePlatform.ServiceDefaults.dll
