@@ -1,0 +1,41 @@
+## Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.userprefs
+
+## IntelliJ / Rider
+.idea/
+*.sln.iml
+
+## Build results
+[Bb]in/
+[Oo]bj/
+TestResults/
+*.TestLogger/
+
+## ASP.NET Core
+appsettings.Local.json
+appsettings.Development.json
+
+## .NET Aspire
+.aspire/
+
+## ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## OS Files
+.DS_Store
+Thumbs.db
+
+## Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+## Logs
+*.log
